@@ -1,0 +1,17 @@
+C:\Users\loai saber\source\repos\TicTakToc\TicTakToc\bin\Debug\net8.0-windows\TicTakToc.exe
+C:\Users\loai saber\source\repos\TicTakToc\TicTakToc\bin\Debug\net8.0-windows\TicTakToc.deps.json
+C:\Users\loai saber\source\repos\TicTakToc\TicTakToc\bin\Debug\net8.0-windows\TicTakToc.runtimeconfig.json
+C:\Users\loai saber\source\repos\TicTakToc\TicTakToc\bin\Debug\net8.0-windows\TicTakToc.dll
+C:\Users\loai saber\source\repos\TicTakToc\TicTakToc\bin\Debug\net8.0-windows\TicTakToc.pdb
+C:\Users\loai saber\source\repos\TicTakToc\TicTakToc\obj\Debug\net8.0-windows\TicTakToc.Form1.resources
+C:\Users\loai saber\source\repos\TicTakToc\TicTakToc\obj\Debug\net8.0-windows\TicTakToc.Form2.resources
+C:\Users\loai saber\source\repos\TicTakToc\TicTakToc\obj\Debug\net8.0-windows\TicTakToc.csproj.GenerateResource.cache
+C:\Users\loai saber\source\repos\TicTakToc\TicTakToc\obj\Debug\net8.0-windows\TicTakToc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loai saber\source\repos\TicTakToc\TicTakToc\obj\Debug\net8.0-windows\TicTakToc.AssemblyInfoInputs.cache
+C:\Users\loai saber\source\repos\TicTakToc\TicTakToc\obj\Debug\net8.0-windows\TicTakToc.AssemblyInfo.cs
+C:\Users\loai saber\source\repos\TicTakToc\TicTakToc\obj\Debug\net8.0-windows\TicTakToc.csproj.CoreCompileInputs.cache
+C:\Users\loai saber\source\repos\TicTakToc\TicTakToc\obj\Debug\net8.0-windows\TicTakToc.dll
+C:\Users\loai saber\source\repos\TicTakToc\TicTakToc\obj\Debug\net8.0-windows\refint\TicTakToc.dll
+C:\Users\loai saber\source\repos\TicTakToc\TicTakToc\obj\Debug\net8.0-windows\TicTakToc.pdb
+C:\Users\loai saber\source\repos\TicTakToc\TicTakToc\obj\Debug\net8.0-windows\TicTakToc.genruntimeconfig.cache
+C:\Users\loai saber\source\repos\TicTakToc\TicTakToc\obj\Debug\net8.0-windows\ref\TicTakToc.dll
